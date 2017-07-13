@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="5060.229774905619" y="2071.5">game.entities.eatable.Foods</node>
+    <node x="3014.7662378923815" y="2083.5">game.entities.material.Wood</node>
+    <node x="626.3921616668631" y="2059.5">game.animals.properties.LivingProperty</node>
+    <node x="5520.082452445498" y="3517.5">ui.FarmUI</node>
+    <node x="12324.91199546814" y="3553.5">ui.FarmerUI</node>
+    <node x="14703.907450013594" y="3505.0">game.action.complex.buy.BuyCookToolAction</node>
+    <node x="17041.51606278441" y="753.5">game.action.simple.SimpleAction</node>
+    <node x="9256.795547683592" y="2119.5">game.places.store.Cafe</node>
+    <node x="783.0" y="3614.5">game.animals.properties.Energy</node>
+    <node x="4726.403881016927" y="1220.0">game.places.Farm</node>
+    <node x="2310.7662378923815" y="2047.5">game.entities.instrument.cook.CookTool</node>
+    <node x="16363.657450013596" y="3614.5">game.action.complex.Transfer</node>
+    <node x="7525.753881016926" y="3577.5">ui.GreenHouseUI</node>
+    <node x="13146.31254045474" y="1328.5">game.entities.storage.BarnBox</node>
+    <node x="6966.46221435026" y="3577.5">ui.GardenUI</node>
+    <node x="513.058828333531" y="1304.0">game.animals.properties.values.LivingPropertyValue</node>
+    <node x="20493.516002229047" y="3541.0">game.action.complex.buy.BuyPotionAction</node>
+    <node x="11829.850698680099" y="2131.5">game.places.Gym</node>
+    <node x="1557.0" y="3493.5">game.entities.instrument.farm.Axe</node>
+    <node x="5373.229774905619" y="2119.5">game.places.FruitGarden</node>
+    <node x="8352.27054768359" y="2143.5">game.places.store.Ranch</node>
+    <node x="19466.516002229047" y="3565.0">game.action.complex.buy.BuyAnimalAction</node>
+    <node x="10855.88478958919" y="1317.0">game.places.store.Market</node>
+    <node x="13017.355177286321" y="3589.5">ui.SeasonUI</node>
+    <node x="13385.31254045474" y="645.0">game.entities.storage.AbstractStorage</node>
+    <node x="10153.607995000195" y="2143.5">game.places.store.GeneralStore</node>
+    <node x="7424.041381016927" y="1341.0">game.entities.eatable.EatableEntity</node>
+    <node x="1874.5787378923815" y="2047.5">game.entities.instrument.farm.Shovel</node>
+    <node x="11421.503881016924" y="3589.5">ui.WorkshopUI</node>
+    <node x="0.0" y="3614.5">game.animals.properties.Satiety</node>
+    <node x="0.0" y="4064.0">game.action.complex.buy.BuyHelperName</node>
+    <node x="5960.229774905619" y="2143.5">game.places.store.GreenHouse</node>
+    <node x="1688.0" y="4064.0">game.action.complex.material.MaterialNameHelper</node>
+    <node x="10211.46221435026" y="3505.5">ui.VillageUI</node>
+    <node x="18658.516002229047" y="3265.0">game.action.complex.tools.RepairToolAction</node>
+    <node x="7846.753881016926" y="3589.5">ui.HomeUI</node>
+    <node x="9992.607995000195" y="2144.0">game.entities.eatable.AnimalFoods</node>
+    <node x="6577.928881016927" y="3553.5">ui.RanchUI</node>
+    <node x="2568.3788810169262" y="778.0">game.entities.Material</node>
+    <node x="1171.0" y="3614.5">game.animals.properties.Health</node>
+    <node x="2090.0" y="4064.0">game.interactable.Intractable</node>
+    <node x="6833.884410801311" y="1867.5">game.entities.eatable.Fruit</node>
+    <node x="3891.9163810169266" y="1316.0">game.places.River</node>
+    <node x="8270.753881016926" y="3577.5">ui.GeroceryStoreUI</node>
+    <node x="17689.21606278441" y="2107.5">game.action.simple.PutAction</node>
+    <node x="11849.667904040403" y="1292.0">game.places.Field</node>
+    <node x="19743.516002229047" y="3517.0">game.action.complex.buy.BuyFoodAction</node>
+    <node x="17832.516002229047" y="3265.0">game.action.complex.tools.UpgradeToolAction</node>
+    <node x="7482.103881016927" y="2143.5">game.places.store.Butchery</node>
+    <node x="12740.494358636559" y="1232.0">game.places.Village</node>
+    <node x="11751.503881016924" y="3589.5">ui.GymUI</node>
+    <node x="4156.778881016927" y="3565.5">ui.BarnUI</node>
+    <node x="14003.31254045474" y="681.0">game.entities.storage.Wallet</node>
+    <node x="12756.355177286321" y="3589.5">ui.BackpackUI</node>
+    <node x="9404.46221435026" y="3589.5">ui.FieldUI</node>
+    <node x="8058.753881016926" y="3577.5">ui.CafeUI</node>
+    <node x="2805.0" y="4064.0">ui.CommandLineHelper</node>
+    <node x="5250.296738159784" y="3577.5">ui.CaveUI</node>
+    <node x="15056.907450013594" y="3277.0">game.action.complex.tools.CreateToolAction</node>
+    <node x="13328.31254045474" y="1328.5">game.entities.storage.BackPack</node>
+    <node x="3944.778881016926" y="3589.5">ui.WoodUI</node>
+    <node x="9600.46221435026" y="3589.5">ui.LaboratoryUI</node>
+    <node x="2258.0" y="4064.0">game.animals.properties.Live</node>
+    <node x="15882.657450013594" y="3457.0">game.action.complex.material.ExtractAction</node>
+    <node x="9114.46221435026" y="3553.5">ui.MarketUI</node>
+    <node x="6194.028881016926" y="3577.5">ui.ButcheryUI</node>
+    <node x="9688.607995000195" y="2143.5">game.places.store.GroceryStore</node>
+    <node x="7911.103881016927" y="2168.5">ui.UI</node>
+    <node x="1673.142161666863" y="754.0">game.animals.properties.values.LivingPropertyValueType</node>
+    <node x="3817.3672749056204" y="2071.5">game.entities.material.RockMetal</node>
+    <node x="8954.795547683592" y="2036.0">game.entities.eatable.CookMaterial</node>
+    <node x="3530.9163810169266" y="1256.0">game.places.Jungle</node>
+    <node x="3332.166237892383" y="3553.5">ui.JungleUI</node>
+    <node x="14998.262540454742" y="1867.0">game.action.complex.sell.SellFruitAction</node>
+    <node x="14717.02433556238" y="123.5">game.action.api.ActionHandler</node>
+    <node x="16469.941062784408" y="1280.0">game.action.simple.TakeAction</node>
+    <node x="15240.06254045474" y="1304.0">game.action.simple.PutMoneyAction</node>
+    <node x="3243.0" y="4064.0">game.entities.instrument.farm.Matchine</node>
+    <node x="10699.420547683592" y="802.0">game.places.Place</node>
+    <node x="10489.405396168442" y="0.0">game.entities.Entity</node>
+    <node x="4083.3672749056186" y="2143.5">game.places.Cave</node>
+    <node x="5365.38959530264" y="135.5">game.entities.requirement.CreatableEntity</node>
+    <node x="2095.5" y="4145.0">game.interactable.CourtCell</node>
+    <node x="11544.850698680099" y="2143.5">game.places.store.Workshop</node>
+    <node x="17958.71606278441" y="135.5">game.entities.Sizeable</node>
+    <node x="16778.91606278441" y="752.5">game.action.complex.ComplexAction</node>
+    <node x="5012.153881016927" y="754.0">game.animals.properties.LivingPropertyType</node>
+    <node x="16907.521153225556" y="135.5">game.entities.Stackable</node>
+    <node x="2483.5038810169262" y="1329.0">game.entities.instrument.Tool</node>
+    <node x="1299.0" y="4064.0">game.action.complex.sell.SellHelperName</node>
+    <node x="1964.4129950001952" y="1316.5">game.entities.requirement.Requirements</node>
+    <node x="1061.079661666863" y="1329.0">game.entities.material.farm.PlantSeed</node>
+    <node x="4825.978737892383" y="2120.0">game.living.Animal</node>
+    <node x="387.0" y="3614.5">game.animals.properties.Stamina</node>
+    <node x="10492.350698680099" y="2143.5">game.places.store.Clinic</node>
+    <node x="13869.92433556238" y="1280.0">game.entities.storage.StorageBox</node>
+    <node x="6259.229774905619" y="2131.5">game.places.Home</node>
+    <node x="14167.56254045474" y="2107.0">game.living.Farmer</node>
+    <node x="18315.132729451074" y="1304.0">game.action.simple.TakeMoneyAction</node>
+    <node x="20157.516002229047" y="3529.0">game.action.complex.sell.SellAnimalAction</node>
+    <node x="10506.267365346766" y="1353.0">game.places.Kitchen</node>
+    <node x="9408.679865346765" y="1293.0">game.environment.Season</node>
+    <node x="9880.46221435026" y="3577.5">ui.GeneralStoreUI</node>
+    <node x="7282.46221435026" y="3589.5">ui.PondUI</node>
+    <node x="5710.229774905619" y="2143.5">game.places.Pond</node>
+    <node x="8890.46221435026" y="3577.5">ui.ClinicUI</node>
+    <node x="17335.84933556238" y="3433.0">game.action.complex.buy.BuyCookMaterialAction</node>
+    <node x="2977.203881016927" y="1292.0">game.entities.LivingPropertyChanger</node>
+    <node x="4974.546738159784" y="3589.5">ui.RockMetalUI</node>
+    <node x="4339.728737892383" y="2143.5">game.places.Barn</node>
+    <node x="904.0" y="4064.0">game.action.complex.tools.NameHelperTool</node>
+    <node x="16842.524335562382" y="3541.0">game.action.complex.buy.BuyAnimalFoodAction</node>
+    <node x="2046.6388888888869" y="3505.5">game.entities.instrument.farm.Pick</node>
+    <node x="17443.21606278441" y="2119.5">game.action.complex.TakeRequirementsAction</node>
+    <node x="17080.521153225556" y="123.0">game.action.api.Action</node>
+    <node x="2642.3788810169262" y="111.0">game.entities.requirement.PairOfEntityValue</node>
+    <node x="2610.7662378923815" y="1987.5">game.entities.instrument.farm.Sprinkler</node>
+    <node x="10980.475698680099" y="2143.5">game.places.Laboratory</node>
+    <node x="7758.103881016927" y="2144.0">game.entities.eatable.Potion</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ui.FarmUI" target="ui.UI">
+      <point x="128.57142857142935" y="-124.5" />
+      <point x="5798.653881016928" y="3015.0" />
+      <point x="7943.883881016927" y="3015.0" />
+      <point x="-41.719999999999345" y="27.5" />
+    </edge>
+    <edge source="game.places.Home" target="game.places.Place">
+      <point x="0.0" y="-64.5" />
+      <point x="6386.729774905619" y="1667.0" />
+      <point x="6695.978881016927" y="1667.0" />
+      <point x="6695.978881016927" y="1150.0" />
+      <point x="10731.875093138138" y="1150.0" />
+      <point x="-9.54545454545405" y="15.5" />
+    </edge>
+    <edge source="ui.BarnUI" target="ui.UI">
+      <point x="81.375" y="-76.5" />
+      <point x="4346.653881016927" y="2985.0" />
+      <point x="7926.003881016926" y="2985.0" />
+      <point x="-59.600000000000364" y="27.5" />
+    </edge>
+    <edge source="game.animals.properties.Health" target="game.animals.properties.LivingProperty">
+      <point x="0.0" y="-27.5" />
+      <point x="1354.0" y="3245.0" />
+      <point x="990.3921616668631" y="3245.0" />
+      <point x="156.0" y="136.5" />
+    </edge>
+    <edge source="game.action.complex.ComplexAction" target="game.action.api.Action">
+      <point x="-59.25" y="-65.0" />
+      <point x="16838.16606278441" y="595.0" />
+      <point x="17147.221153225553" y="595.0" />
+      <point x="-25.299999999999272" y="40.0" />
+    </edge>
+    <edge source="ui.FieldUI" target="ui.UI">
+      <point x="-44.0" y="-52.5" />
+      <point x="9448.46221435026" y="2665.0" />
+      <point x="8009.443881016927" y="2665.0" />
+      <point x="23.840000000000146" y="27.5" />
+    </edge>
+    <edge source="ui.JungleUI" target="ui.UI">
+      <point x="104.80000000000018" y="-88.5" />
+      <point x="3567.966237892382" y="2965.0" />
+      <point x="7914.083881016926" y="2965.0" />
+      <point x="-71.52000000000044" y="27.5" />
+    </edge>
+    <edge source="game.action.complex.buy.BuyAnimalFoodAction" target="game.action.api.Action">
+      <point x="-122.40000000000146" y="-101.0" />
+      <point x="16873.12433556238" y="3095.0" />
+      <point x="16360.904267676768" y="3095.0" />
+      <point x="16360.904267676768" y="575.0" />
+      <point x="17138.021153225556" y="575.0" />
+      <point x="-34.5" y="40.0" />
+    </edge>
+    <edge source="game.entities.storage.BarnBox" target="game.entities.storage.AbstractStorage">
+      <point x="0.0" y="-40.0" />
+      <point x="13227.31254045474" y="1200.0" />
+      <point x="13445.11254045474" y="1200.0" />
+      <point x="-239.20000000000073" y="172.5" />
+    </edge>
+    <edge source="ui.VillageUI" target="ui.UI">
+      <point x="-152.8888888888887" y="-136.5" />
+      <point x="10230.57332546137" y="2625.0" />
+      <point x="8027.323881016926" y="2625.0" />
+      <point x="41.719999999999345" y="27.5" />
+    </edge>
+    <edge source="game.places.Jungle" target="game.places.Place">
+      <point x="0.0" y="-112.5" />
+      <point x="3701.4163810169266" y="1070.0" />
+      <point x="10701.329638592682" y="1070.0" />
+      <point x="-40.09090909090992" y="15.5" />
+    </edge>
+    <edge source="game.action.complex.sell.SellFruitAction" target="game.action.api.Action">
+      <point x="-264.39999999999964" y="-329.0" />
+      <point x="15064.362540454742" y="1847.0" />
+      <point x="15185.56254045474" y="1847.0" />
+      <point x="15185.56254045474" y="515.0" />
+      <point x="17110.421153225558" y="515.0" />
+      <point x="-62.099999999998545" y="40.0" />
+    </edge>
+    <edge source="game.action.complex.material.ExtractAction" target="game.action.api.Action">
+      <point x="-184.40000000000146" y="-185.0" />
+      <point x="15928.757450013592" y="3155.0" />
+      <point x="15698.21254045474" y="3155.0" />
+      <point x="15698.21254045474" y="545.0" />
+      <point x="17124.221153225553" y="545.0" />
+      <point x="-48.29999999999927" y="40.0" />
+    </edge>
+    <edge source="game.entities.eatable.CookMaterial" target="game.entities.eatable.EatableEntity">
+      <point x="0.0" y="-160.0" />
+      <point x="9095.795547683592" y="1647.0" />
+      <point x="7566.141381016927" y="1647.0" />
+      <point x="40.600000000000364" y="27.5" />
+    </edge>
+    <edge source="game.action.simple.PutAction" target="game.action.simple.SimpleAction">
+      <point x="-42.25" y="-88.5" />
+      <point x="17815.96606278441" y="1757.0" />
+      <point x="17508.59106278441" y="1757.0" />
+      <point x="17508.59106278441" y="1170.0" />
+      <point x="17264.64106278441" y="1170.0" />
+      <point x="44.625" y="64.0" />
+    </edge>
+    <edge source="game.action.complex.buy.BuyFoodAction" target="game.action.api.Action">
+      <point x="0.0" y="-125.0" />
+      <point x="19940.516002229047" y="3245.0" />
+      <point x="19967.332450013593" y="3245.0" />
+      <point x="19967.332450013593" y="315.0" />
+      <point x="17225.421153225558" y="315.0" />
+      <point x="52.900000000001455" y="40.0" />
+    </edge>
+    <edge source="game.places.Barn" target="game.places.Place">
+      <point x="0.0" y="-52.5" />
+      <point x="4453.228737892383" y="1817.0" />
+      <point x="4715.903881016927" y="1817.0" />
+      <point x="4715.903881016927" y="1100.0" />
+      <point x="10712.784184047228" y="1100.0" />
+      <point x="-28.636363636363967" y="15.5" />
+    </edge>
+    <edge source="game.action.simple.SimpleAction" target="game.action.api.Action">
+      <point x="0.0" y="-64.0" />
+      <point x="17220.01606278441" y="615.0" />
+      <point x="17165.621153225555" y="615.0" />
+      <point x="-6.900000000001455" y="40.0" />
+    </edge>
+    <edge source="game.entities.instrument.Tool" target="game.entities.Material">
+      <point x="0.0" y="-39.5" />
+      <point x="-15.875" y="39.5" />
+    </edge>
+    <edge source="game.action.complex.Transfer" target="game.action.complex.ComplexAction">
+      <point x="0.0" y="-27.5" />
+      <point x="16587.157450013598" y="3105.0" />
+      <point x="16206.412540454741" y="3105.0" />
+      <point x="16206.412540454741" y="1807.0" />
+      <point x="16838.16606278441" y="1807.0" />
+      <point x="-59.25" y="65.0" />
+    </edge>
+    <edge source="game.action.simple.TakeMoneyAction" target="game.action.simple.SimpleAction">
+      <point x="-71.0" y="-64.5" />
+      <point x="18386.132729451074" y="1160.0" />
+      <point x="17353.89106278441" y="1160.0" />
+      <point x="133.875" y="64.0" />
+    </edge>
+    <edge source="game.places.FruitGarden" target="game.places.Place">
+      <point x="0.0" y="-76.5" />
+      <point x="5531.729774905619" y="1667.0" />
+      <point x="5801.603881016927" y="1667.0" />
+      <point x="5801.603881016927" y="1120.0" />
+      <point x="10720.420547683592" y="1120.0" />
+      <point x="-21.0" y="15.5" />
+    </edge>
+    <edge source="game.places.Field" target="game.places.Place">
+      <point x="0.0" y="-76.5" />
+      <point x="11983.167904040403" y="1170.0" />
+      <point x="10762.420547683592" y="1170.0" />
+      <point x="21.0" y="15.5" />
+    </edge>
+    <edge source="game.places.Village" target="game.places.Place">
+      <point x="0.0" y="-136.5" />
+      <point x="12930.994358636559" y="1030.0" />
+      <point x="10773.875093138138" y="1030.0" />
+      <point x="32.45454545454595" y="15.5" />
+    </edge>
+    <edge source="ui.LaboratoryUI" target="ui.UI">
+      <point x="-65.0" y="-52.5" />
+      <point x="9665.46221435026" y="2655.0" />
+      <point x="8015.403881016926" y="2655.0" />
+      <point x="29.799999999999272" y="27.5" />
+    </edge>
+    <edge source="game.action.complex.buy.BuyCookMaterialAction" target="game.action.api.Action">
+      <point x="0.0" y="-209.0" />
+      <point x="17570.84933556238" y="3155.0" />
+      <point x="17432.71606278441" y="3155.0" />
+      <point x="17432.71606278441" y="595.0" />
+      <point x="17174.821153225552" y="595.0" />
+      <point x="2.2999999999992724" y="40.0" />
+    </edge>
+    <edge source="game.places.Farm" target="game.places.Place">
+      <point x="0.0" y="-148.5" />
+      <point x="4920.903881016927" y="1110.0" />
+      <point x="10716.60236586541" y="1110.0" />
+      <point x="-24.818181818181984" y="15.5" />
+    </edge>
+    <edge source="game.entities.storage.AbstractStorage" target="game.action.api.ActionHandler">
+      <point x="149.5" y="-172.5" />
+      <point x="13833.81254045474" y="425.0" />
+      <point x="14738.02433556238" y="425.0" />
+      <point x="-126.0" y="39.5" />
+    </edge>
+    <edge source="game.entities.eatable.Potion" target="game.entities.eatable.EatableEntity">
+      <point x="0.0" y="-52.0" />
+      <point x="7824.603881016927" y="1657.0" />
+      <point x="7525.541381016927" y="1657.0" />
+      <point x="0.0" y="27.5" />
+    </edge>
+    <edge source="game.living.Farmer" target="game.action.api.ActionHandler">
+      <point x="75.75" y="-89.0" />
+      <point x="14394.81254045474" y="445.0" />
+      <point x="14822.02433556238" y="445.0" />
+      <point x="-42.0" y="39.5" />
+    </edge>
+    <edge source="game.entities.material.RockMetal" target="game.entities.Material">
+      <point x="61.5" y="-124.5" />
+      <point x="4001.8672749056204" y="1837.0" />
+      <point x="4201.4163810169275" y="1837.0" />
+      <point x="4201.4163810169275" y="1010.0" />
+      <point x="2679.5038810169262" y="1010.0" />
+      <point x="47.625" y="39.5" />
+    </edge>
+    <edge source="ui.RanchUI" target="ui.UI">
+      <point x="50.600000000000364" y="-88.5" />
+      <point x="6755.028881016928" y="3035.0" />
+      <point x="7955.803881016927" y="3035.0" />
+      <point x="-29.799999999999272" y="27.5" />
+    </edge>
+    <edge source="game.living.Animal" target="game.entities.Entity">
+      <point x="37.25" y="-76.0" />
+      <point x="4937.728737892383" y="1847.0" />
+      <point x="5204.653881016927" y="1847.0" />
+      <point x="5204.653881016927" y="71.0" />
+      <point x="10511.655396168442" y="71.0" />
+      <point x="-22.25" y="15.5" />
+    </edge>
+    <edge source="game.entities.eatable.AnimalFoods" target="game.entities.eatable.EatableEntity">
+      <point x="0.0" y="-52.0" />
+      <point x="10062.607995000195" y="1637.0" />
+      <point x="7606.741381016927" y="1637.0" />
+      <point x="81.20000000000073" y="27.5" />
+    </edge>
+    <edge source="game.action.complex.tools.UpgradeToolAction" target="game.action.api.Action">
+      <point x="67.16666666666788" y="-377.0" />
+      <point x="18302.682668895715" y="3245.0" />
+      <point x="18293.632729451074" y="3245.0" />
+      <point x="18293.632729451074" y="415.0" />
+      <point x="17184.021153225556" y="415.0" />
+      <point x="11.5" y="40.0" />
+    </edge>
+    <edge source="game.places.store.Market" target="game.places.Place">
+      <point x="0.0" y="-51.5" />
+      <point x="11020.38478958919" y="1190.0" />
+      <point x="10754.784184047228" y="1190.0" />
+      <point x="13.363636363636033" y="15.5" />
+    </edge>
+    <edge source="game.entities.Sizeable" target="game.entities.Entity">
+      <point x="0.0" y="-27.5" />
+      <point x="18010.71606278441" y="51.0" />
+      <point x="10573.955396168441" y="51.0" />
+      <point x="40.04999999999927" y="15.5" />
+    </edge>
+    <edge source="game.entities.eatable.EatableEntity" target="game.entities.Entity">
+      <point x="0.0" y="-27.5" />
+      <point x="7525.541381016927" y="91.0" />
+      <point x="10529.455396168441" y="91.0" />
+      <point x="-4.450000000000728" y="15.5" />
+    </edge>
+    <edge source="ui.HomeUI" target="ui.UI">
+      <point x="48.0" y="-52.5" />
+      <point x="7990.753881016926" y="3065.0" />
+      <point x="7979.6438810169275" y="3065.0" />
+      <point x="-5.959999999999127" y="27.5" />
+    </edge>
+    <edge source="game.entities.Material" target="game.entities.Entity">
+      <point x="0.0" y="-39.5" />
+      <point x="2631.8788810169262" y="51.0" />
+      <point x="10493.855396168443" y="51.0" />
+      <point x="-40.04999999999927" y="15.5" />
+    </edge>
+    <edge source="game.entities.material.Wood" target="game.entities.Material">
+      <point x="59.0" y="-112.5" />
+      <point x="3191.7662378923815" y="1837.0" />
+      <point x="3317.245547683593" y="1837.0" />
+      <point x="3317.245547683593" y="1020.0" />
+      <point x="2647.7538810169262" y="1020.0" />
+      <point x="15.875" y="39.5" />
+    </edge>
+    <edge source="ui.WoodUI" target="ui.UI">
+      <point x="48.0" y="-52.5" />
+      <point x="4088.778881016926" y="2975.0" />
+      <point x="7920.043881016927" y="2975.0" />
+      <point x="-65.55999999999949" y="27.5" />
+    </edge>
+    <edge source="ui.ButcheryUI" target="ui.UI">
+      <point x="85.00000000000091" y="-64.5" />
+      <point x="6406.528881016927" y="3025.0" />
+      <point x="7949.843881016926" y="3025.0" />
+      <point x="-35.76000000000022" y="27.5" />
+    </edge>
+    <edge source="game.places.store.Cafe" target="game.places.Place">
+      <point x="0.0" y="-76.5" />
+      <point x="9389.295547683592" y="1717.0" />
+      <point x="10616.767365346766" y="1717.0" />
+      <point x="10616.767365346766" y="1190.0" />
+      <point x="10747.147820410864" y="1190.0" />
+      <point x="5.727272727272066" y="15.5" />
+    </edge>
+    <edge source="game.places.store.GroceryStore" target="game.places.Place">
+      <point x="-71.0" y="-52.5" />
+      <point x="9759.607995000195" y="1727.0" />
+      <point x="10741.13478958919" y="1727.0" />
+      <point x="10741.13478958919" y="1200.0" />
+      <point x="10750.966002229046" y="1200.0" />
+      <point x="9.54545454545405" y="15.5" />
+    </edge>
+    <edge source="game.entities.Stackable" target="game.entities.Entity">
+      <point x="0.0" y="-27.5" />
+      <point x="16984.021153225556" y="71.0" />
+      <point x="10556.155396168442" y="71.0" />
+      <point x="22.25" y="15.5" />
+    </edge>
+    <edge source="game.entities.requirement.CreatableEntity" target="game.entities.Entity">
+      <point x="0.0" y="-27.5" />
+      <point x="5544.88959530264" y="81.0" />
+      <point x="10520.555396168442" y="81.0" />
+      <point x="-13.350000000000364" y="15.5" />
+    </edge>
+    <edge source="game.entities.instrument.farm.Shovel" target="game.entities.instrument.Tool">
+      <point x="23.833333333333485" y="-148.5" />
+      <point x="2041.4120712257154" y="1707.0" />
+      <point x="2527.6705476835923" y="1707.0" />
+      <point x="-88.33333333333348" y="39.5" />
+    </edge>
+    <edge source="game.entities.instrument.farm.Sprinkler" target="game.entities.instrument.Tool">
+      <point x="-31.916666666666515" y="-208.5" />
+      <point x="2770.3495712257154" y="1627.0" />
+      <point x="2645.4483254613697" y="1627.0" />
+      <point x="29.444444444444343" y="39.5" />
+    </edge>
+    <edge source="ui.GeneralStoreUI" target="ui.UI">
+      <point x="-103.66666666666606" y="-64.5" />
+      <point x="9932.295547683592" y="2645.0" />
+      <point x="8021.363881016927" y="2645.0" />
+      <point x="35.76000000000022" y="27.5" />
+    </edge>
+    <edge source="game.action.complex.TakeRequirementsAction" target="game.action.complex.ComplexAction">
+      <point x="-28.25" y="-76.5" />
+      <point x="17527.96606278441" y="1787.0" />
+      <point x="17420.01606278441" y="1787.0" />
+      <point x="17420.01606278441" y="1180.0" />
+      <point x="16956.66606278441" y="1180.0" />
+      <point x="59.25" y="65.0" />
+    </edge>
+    <edge source="game.places.store.GeneralStore" target="game.places.store.Market">
+      <point x="-71.0" y="-52.5" />
+      <point x="10224.607995000195" y="1767.0" />
+      <point x="11086.18478958919" y="1767.0" />
+      <point x="65.79999999999927" y="51.5" />
+    </edge>
+    <edge source="game.places.Laboratory" target="game.places.Place">
+      <point x="0.0" y="-52.5" />
+      <point x="11115.475698680099" y="1817.0" />
+      <point x="12729.994358636559" y="1817.0" />
+      <point x="12729.994358636559" y="1040.0" />
+      <point x="10770.056911319956" y="1040.0" />
+      <point x="28.636363636363967" y="15.5" />
+    </edge>
+    <edge source="ui.GeroceryStoreUI" target="ui.UI">
+      <point x="0.0" y="-64.5" />
+      <point x="8426.253881016926" y="2715.0" />
+      <point x="7991.563881016926" y="2715.0" />
+      <point x="5.959999999999127" y="27.5" />
+    </edge>
+    <edge source="game.action.simple.PutMoneyAction" target="game.action.simple.SimpleAction">
+      <point x="69.0" y="-64.5" />
+      <point x="15447.06254045474" y="1190.0" />
+      <point x="17086.14106278441" y="1190.0" />
+      <point x="-133.875" y="64.0" />
+    </edge>
+    <edge source="game.animals.properties.Stamina" target="game.animals.properties.LivingProperty">
+      <point x="0.0" y="-27.5" />
+      <point x="575.0" y="3245.0" />
+      <point x="782.3921616668631" y="3245.0" />
+      <point x="-52.0" y="136.5" />
+    </edge>
+    <edge source="game.action.complex.sell.SellAnimalAction" target="game.action.api.Action">
+      <point x="0.0" y="-113.0" />
+      <point x="20315.516002229047" y="3245.0" />
+      <point x="20341.616002229046" y="3245.0" />
+      <point x="20341.616002229046" y="285.0" />
+      <point x="17239.221153225553" y="285.0" />
+      <point x="66.70000000000073" y="40.0" />
+    </edge>
+    <edge source="game.places.store.Butchery" target="game.places.Place">
+      <point x="-64.0" y="-52.5" />
+      <point x="7546.103881016927" y="1667.0" />
+      <point x="7330.291381016927" y="1667.0" />
+      <point x="7330.291381016927" y="1160.0" />
+      <point x="10735.69327495632" y="1160.0" />
+      <point x="-5.727272727272066" y="15.5" />
+    </edge>
+    <edge source="game.entities.instrument.farm.Axe" target="game.entities.instrument.Tool">
+      <point x="0.0" y="-148.5" />
+      <point x="1700.0" y="3245.0" />
+      <point x="1728.204661666863" y="3245.0" />
+      <point x="1728.204661666863" y="1697.0" />
+      <point x="2498.226103239149" y="1697.0" />
+      <point x="-117.77777777777737" y="39.5" />
+    </edge>
+    <edge source="ui.GymUI" target="ui.UI">
+      <point x="-42.75" y="-52.5" />
+      <point x="11794.253881016924" y="2585.0" />
+      <point x="8039.243881016926" y="2585.0" />
+      <point x="53.63999999999942" y="27.5" />
+    </edge>
+    <edge source="game.action.complex.buy.BuyCookToolAction" target="game.action.api.Action">
+      <point x="-66.59999999999854" y="-137.0" />
+      <point x="14803.807450013595" y="3235.0" />
+      <point x="14492.06254045474" y="3235.0" />
+      <point x="14492.06254045474" y="465.0" />
+      <point x="17087.421153225558" y="465.0" />
+      <point x="-85.09999999999854" y="40.0" />
+    </edge>
+    <edge source="game.animals.properties.Energy" target="game.animals.properties.LivingProperty">
+      <point x="0.0" y="-27.5" />
+      <point x="967.0" y="3245.0" />
+      <point x="886.3921616668631" y="3245.0" />
+      <point x="52.0" y="136.5" />
+    </edge>
+    <edge source="game.places.store.Clinic" target="game.places.Place">
+      <point x="0.0" y="-52.5" />
+      <point x="10607.850698680099" y="1807.0" />
+      <point x="12726.176176818377" y="1807.0" />
+      <point x="12726.176176818377" y="1050.0" />
+      <point x="10766.238729501774" y="1050.0" />
+      <point x="24.818181818181984" y="15.5" />
+    </edge>
+    <edge source="game.places.store.GeneralStore" target="game.places.Place">
+      <point x="71.0" y="-52.5" />
+      <point x="10366.607995000195" y="1787.0" />
+      <point x="11839.167904040403" y="1787.0" />
+      <point x="11839.167904040403" y="1180.0" />
+      <point x="10758.60236586541" y="1180.0" />
+      <point x="17.181818181818016" y="15.5" />
+    </edge>
+    <edge source="game.animals.properties.Satiety" target="game.animals.properties.LivingProperty">
+      <point x="0.0" y="-27.5" />
+      <point x="183.5" y="3235.0" />
+      <point x="678.3921616668631" y="3235.0" />
+      <point x="-156.0" y="136.5" />
+    </edge>
+    <edge source="ui.GreenHouseUI" target="ui.UI">
+      <point x="100.33333333333394" y="-64.5" />
+      <point x="7776.58721435026" y="3065.0" />
+      <point x="7973.6838810169265" y="3065.0" />
+      <point x="-11.920000000000073" y="27.5" />
+    </edge>
+    <edge source="game.places.Cave" target="game.places.Place">
+      <point x="0.0" y="-52.5" />
+      <point x="4196.867274905619" y="1847.0" />
+      <point x="4396.416381016927" y="1847.0" />
+      <point x="4396.416381016927" y="1090.0" />
+      <point x="10708.966002229046" y="1090.0" />
+      <point x="-32.45454545454595" y="15.5" />
+    </edge>
+    <edge source="ui.CafeUI" target="ui.UI">
+      <point x="0.0" y="-64.5" />
+      <point x="8154.753881016926" y="2735.0" />
+      <point x="7985.603881016927" y="2735.0" />
+      <point x="0.0" y="27.5" />
+    </edge>
+    <edge source="game.entities.eatable.Fruit" target="game.entities.eatable.EatableEntity">
+      <point x="71.875" y="-328.5" />
+      <point x="7193.259410801311" y="1687.0" />
+      <point x="7484.941381016926" y="1687.0" />
+      <point x="-40.600000000000364" y="27.5" />
+    </edge>
+    <edge source="game.places.store.Workshop" target="game.places.Place">
+      <point x="0.0" y="-52.5" />
+      <point x="11677.350698680099" y="1837.0" />
+      <point x="13131.994358636559" y="1837.0" />
+      <point x="13131.994358636559" y="1020.0" />
+      <point x="10777.69327495632" y="1020.0" />
+      <point x="36.272727272727934" y="15.5" />
+    </edge>
+    <edge source="game.entities.material.farm.PlantSeed" target="game.entities.Material">
+      <point x="0.0" y="-39.5" />
+      <point x="1124.579661666863" y="1040.0" />
+      <point x="2584.2538810169262" y="1040.0" />
+      <point x="-47.625" y="39.5" />
+    </edge>
+    <edge source="game.places.store.GroceryStore" target="game.places.store.Market">
+      <point x="71.0" y="-52.5" />
+      <point x="9901.607995000195" y="1747.0" />
+      <point x="10954.584789589191" y="1747.0" />
+      <point x="-65.79999999999927" y="51.5" />
+    </edge>
+    <edge source="ui.WorkshopUI" target="ui.UI">
+      <point x="-63.0" y="-52.5" />
+      <point x="11484.503881016924" y="2595.0" />
+      <point x="8033.283881016927" y="2595.0" />
+      <point x="47.68000000000029" y="27.5" />
+    </edge>
+    <edge source="ui.GardenUI" target="ui.UI">
+      <point x="98.66666666666606" y="-64.5" />
+      <point x="7213.128881016926" y="3045.0" />
+      <point x="7961.7638810169265" y="3045.0" />
+      <point x="-23.840000000000146" y="27.5" />
+    </edge>
+    <edge source="game.action.complex.tools.RepairToolAction" target="game.action.api.Action">
+      <point x="197.0" y="-377.0" />
+      <point x="19249.516002229047" y="3235.0" />
+      <point x="19069.565783346927" y="3235.0" />
+      <point x="19069.565783346927" y="365.0" />
+      <point x="17202.421153225558" y="365.0" />
+      <point x="29.900000000001455" y="40.0" />
+    </edge>
+    <edge source="game.places.Pond" target="game.places.Place">
+      <point x="0.0" y="-52.5" />
+      <point x="5825.229774905619" y="1647.0" />
+      <point x="6115.562214350259" y="1647.0" />
+      <point x="6115.562214350259" y="1130.0" />
+      <point x="10724.238729501774" y="1130.0" />
+      <point x="-17.181818181818016" y="15.5" />
+    </edge>
+    <edge source="ui.BackpackUI" target="ui.UI">
+      <point x="-60.25" y="-52.5" />
+      <point x="12816.605177286321" y="2565.0" />
+      <point x="8051.163881016926" y="2565.0" />
+      <point x="65.55999999999949" y="27.5" />
+    </edge>
+    <edge source="game.interactable.CourtCell" target="game.interactable.Intractable">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="ui.PondUI" target="ui.UI">
+      <point x="46.0" y="-52.5" />
+      <point x="7420.46221435026" y="3055.0" />
+      <point x="7967.723881016927" y="3055.0" />
+      <point x="-17.8799999999992" y="27.5" />
+    </edge>
+    <edge source="game.places.store.Butchery" target="game.places.store.Market">
+      <point x="64.0" y="-52.5" />
+      <point x="7674.103881016927" y="1737.0" />
+      <point x="10888.78478958919" y="1737.0" />
+      <point x="-131.60000000000036" y="51.5" />
+    </edge>
+    <edge source="ui.CaveUI" target="ui.UI">
+      <point x="65.33333333333348" y="-64.5" />
+      <point x="5413.630071493117" y="3005.0" />
+      <point x="7937.923881016926" y="3005.0" />
+      <point x="-47.68000000000029" y="27.5" />
+    </edge>
+    <edge source="game.entities.eatable.Foods" target="game.entities.eatable.EatableEntity">
+      <point x="125.57142857142844" y="-124.5" />
+      <point x="5332.301203477047" y="1677.0" />
+      <point x="7444.341381016926" y="1677.0" />
+      <point x="-81.20000000000073" y="27.5" />
+    </edge>
+    <edge source="game.entities.storage.StorageBox" target="game.entities.storage.AbstractStorage">
+      <point x="0.0" y="-88.5" />
+      <point x="14037.42433556238" y="1200.0" />
+      <point x="13803.912540454741" y="1200.0" />
+      <point x="119.60000000000036" y="172.5" />
+    </edge>
+    <edge source="game.action.complex.buy.BuyPotionAction" target="game.action.api.Action">
+      <point x="125.20000000000073" y="-101.0" />
+      <point x="20775.216002229048" y="3235.0" />
+      <point x="20697.816002229047" y="3235.0" />
+      <point x="20697.816002229047" y="235.0" />
+      <point x="17262.221153225553" y="235.0" />
+      <point x="89.70000000000073" y="40.0" />
+    </edge>
+    <edge source="game.entities.storage.Wallet" target="game.action.api.ActionHandler">
+      <point x="0.0" y="-136.5" />
+      <point x="14193.81254045474" y="435.0" />
+      <point x="14780.02433556238" y="435.0" />
+      <point x="-84.0" y="39.5" />
+    </edge>
+    <edge source="game.entities.eatable.Foods" target="game.entities.requirement.CreatableEntity">
+      <point x="83.71428571428532" y="-124.5" />
+      <point x="5290.444060619904" y="1657.0" />
+      <point x="5544.88959530264" y="1657.0" />
+      <point x="0.0" y="27.5" />
+    </edge>
+    <edge source="ui.ClinicUI" target="ui.UI">
+      <point x="0.0" y="-64.5" />
+      <point x="8992.46221435026" y="2695.0" />
+      <point x="7997.523881016927" y="2695.0" />
+      <point x="11.920000000000073" y="27.5" />
+    </edge>
+    <edge source="game.entities.instrument.cook.CookTool" target="game.entities.instrument.Tool">
+      <point x="0.0" y="-148.5" />
+      <point x="2444.7662378923815" y="1737.0" />
+      <point x="2616.0038810169262" y="1737.0" />
+      <point x="0.0" y="39.5" />
+    </edge>
+    <edge source="game.action.simple.TakeAction" target="game.action.simple.SimpleAction">
+      <point x="126.75" y="-88.5" />
+      <point x="16765.691062784408" y="1200.0" />
+      <point x="17175.39106278441" y="1200.0" />
+      <point x="-44.625" y="64.0" />
+    </edge>
+    <edge source="game.entities.instrument.farm.Pick" target="game.entities.instrument.Tool">
+      <point x="-16.625" y="-136.5" />
+      <point x="2163.013888888887" y="2885.0" />
+      <point x="2193.0787378923815" y="2885.0" />
+      <point x="2193.0787378923815" y="1717.0" />
+      <point x="2557.1149921280376" y="1717.0" />
+      <point x="-58.88888888888869" y="39.5" />
+    </edge>
+    <edge source="game.entities.storage.BackPack" target="game.entities.storage.AbstractStorage">
+      <point x="46.5" y="-40.0" />
+      <point x="13467.81254045474" y="1200.0" />
+      <point x="13564.71254045474" y="1200.0" />
+      <point x="-119.60000000000036" y="172.5" />
+    </edge>
+    <edge source="game.places.store.Ranch" target="game.places.Place">
+      <point x="0.0" y="-52.5" />
+      <point x="8470.27054768359" y="1707.0" />
+      <point x="9923.492365346765" y="1707.0" />
+      <point x="9923.492365346765" y="1170.0" />
+      <point x="10739.511456774502" y="1170.0" />
+      <point x="-1.9090909090900823" y="15.5" />
+    </edge>
+    <edge source="game.places.store.GreenHouse" target="game.places.Place">
+      <point x="0.0" y="-52.5" />
+      <point x="6099.729774905619" y="1657.0" />
+      <point x="6390.062214350259" y="1657.0" />
+      <point x="6390.062214350259" y="1140.0" />
+      <point x="10728.056911319956" y="1140.0" />
+      <point x="-13.363636363636033" y="15.5" />
+    </edge>
+    <edge source="game.places.River" target="game.places.Place">
+      <point x="0.0" y="-52.5" />
+      <point x="4006.4163810169266" y="1080.0" />
+      <point x="10705.147820410864" y="1080.0" />
+      <point x="-36.272727272727934" y="15.5" />
+    </edge>
+    <edge source="game.action.complex.tools.CreateToolAction" target="game.action.api.Action">
+      <point x="-154.40000000000146" y="-365.0" />
+      <point x="15288.507450013592" y="3145.0" />
+      <point x="14887.954267676767" y="3145.0" />
+      <point x="14887.954267676767" y="495.0" />
+      <point x="17101.221153225553" y="495.0" />
+      <point x="-71.29999999999927" y="40.0" />
+    </edge>
+    <edge source="game.places.Gym" target="game.places.Place">
+      <point x="0.0" y="-64.5" />
+      <point x="11951.850698680099" y="1847.0" />
+      <point x="13135.81254045474" y="1847.0" />
+      <point x="13135.81254045474" y="1010.0" />
+      <point x="10781.511456774502" y="1010.0" />
+      <point x="40.09090909090992" y="15.5" />
+    </edge>
+    <edge source="game.entities.storage.BackPack" target="game.entities.Entity">
+      <point x="-46.5" y="-40.0" />
+      <point x="13374.81254045474" y="1190.0" />
+      <point x="13157.271153225554" y="1190.0" />
+      <point x="13157.271153225554" y="91.0" />
+      <point x="10538.355396168443" y="91.0" />
+      <point x="4.450000000000728" y="15.5" />
+    </edge>
+    <edge source="ui.FarmerUI" target="ui.UI">
+      <point x="-100.5" y="-88.5" />
+      <point x="12358.41199546814" y="2575.0" />
+      <point x="8045.203881016927" y="2575.0" />
+      <point x="59.600000000000364" y="27.5" />
+    </edge>
+    <edge source="ui.RockMetalUI" target="ui.UI">
+      <point x="63.25" y="-52.5" />
+      <point x="5164.296738159784" y="2995.0" />
+      <point x="7931.963881016927" y="2995.0" />
+      <point x="-53.63999999999942" y="27.5" />
+    </edge>
+    <edge source="ui.SeasonUI" target="ui.UI">
+      <point x="-52.25" y="-52.5" />
+      <point x="13069.605177286321" y="2555.0" />
+      <point x="8057.123881016927" y="2555.0" />
+      <point x="71.52000000000044" y="27.5" />
+    </edge>
+    <edge source="game.action.complex.buy.BuyAnimalAction" target="game.action.api.Action">
+      <point x="102.79999999999927" y="-77.0" />
+      <point x="19697.816002229047" y="3235.0" />
+      <point x="19637.216002229045" y="3235.0" />
+      <point x="19637.216002229045" y="325.0" />
+      <point x="17220.821153225552" y="325.0" />
+      <point x="48.29999999999927" y="40.0" />
+    </edge>
+    <edge source="ui.MarketUI" target="ui.UI">
+      <point x="-54.0" y="-88.5" />
+      <point x="9195.46221435026" y="2675.0" />
+      <point x="8003.483881016926" y="2675.0" />
+      <point x="17.8799999999992" y="27.5" />
+    </edge>
+    <edge source="game.places.Kitchen" target="game.places.Place">
+      <point x="0.0" y="-15.5" />
+      <point x="10556.267365346766" y="1180.0" />
+      <point x="10743.329638592682" y="1180.0" />
+      <point x="1.9090909090900823" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6" x="12425.0" y="3418.0" />
+  <SelectedNodes>
+    <node>game.entities.eatable.Potion</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

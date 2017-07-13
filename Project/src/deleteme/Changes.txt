@@ -1,0 +1,1 @@
+Extracted Interfaces for {Place, Interactable}
